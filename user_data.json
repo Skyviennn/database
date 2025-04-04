@@ -1,4 +1,8 @@
 {
+  "192922993": {
+    "name": "sky",
+    "password": "test"
+  },
   "6283141627276": {
     "name": "VERSE",
     "password": "000"
@@ -38,5 +42,9 @@
   "6281958537677": {
     "name": "raf",
     "password": "11"
+  },
+  "00000": {
+    "name": "sky",
+    "password": "sky"
   }
 }
